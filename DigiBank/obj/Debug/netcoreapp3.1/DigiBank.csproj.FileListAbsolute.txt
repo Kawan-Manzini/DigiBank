@@ -1,0 +1,14 @@
+D:\Praticando-c#\DigiBank\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.exe
+D:\Praticando-c#\DigiBank\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.deps.json
+D:\Praticando-c#\DigiBank\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.runtimeconfig.json
+D:\Praticando-c#\DigiBank\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.runtimeconfig.dev.json
+D:\Praticando-c#\DigiBank\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.dll
+D:\Praticando-c#\DigiBank\DigiBank\bin\Debug\netcoreapp3.1\DigiBank.pdb
+D:\Praticando-c#\DigiBank\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.csproj.AssemblyReference.cache
+D:\Praticando-c#\DigiBank\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praticando-c#\DigiBank\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.AssemblyInfoInputs.cache
+D:\Praticando-c#\DigiBank\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.AssemblyInfo.cs
+D:\Praticando-c#\DigiBank\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.csproj.CoreCompileInputs.cache
+D:\Praticando-c#\DigiBank\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.dll
+D:\Praticando-c#\DigiBank\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.pdb
+D:\Praticando-c#\DigiBank\DigiBank\obj\Debug\netcoreapp3.1\DigiBank.genruntimeconfig.cache
